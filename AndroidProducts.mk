@@ -14,9 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_raphael.mk
-
-COMMON_LUNCH_CHOICES := \
-    aosp_raphael-user \
-    aosp_raphael-userdebug \
-    aosp_raphael-eng
+    $(LOCAL_DIR)/lineage_raphael.mk

@@ -58,8 +58,6 @@ import vendor.xiaomi.hardware.motor.V1_0.IMotor;
 import vendor.xiaomi.hardware.motor.V1_0.IMotorCallback;
 import vendor.xiaomi.hardware.motor.V1_0.MotorEvent;
 
-import com.android.internal.util.custom.popupcamera.PopUpCameraUtils;
-
 public class PopupCameraService extends Service implements Handler.Callback {
 
     private static final String TAG = "PopupCameraService";
